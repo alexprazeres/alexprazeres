@@ -2,8 +2,12 @@
 
 
 
-- 🔭 Hoje estou focado em desenvolvimento front-end
-- 🌱 Aperfeiçoando PHP Orientado a Objetos
+- Desenvolvedor Front-end Web com VueJS + Tailwind Sites - Vuetify para PWA
+- Desenvolvedor Front-end Mobile com Flutter (Java e arranhando Swift)
+- Desenvolvedor Back-end com Laravel + Inertia
+- Desenvolvedor Desktop com Delphi, VueJS+Electron
+
+- Pequeno Manjador de VPS Linux
 
 <div>
   <a href="https://github.com/alexprazeres">
