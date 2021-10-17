@@ -3,11 +3,16 @@
 
 
 - Desenvolvedor Front-end Web com VueJS + Tailwind Sites - Vuetify para PWA
-- Desenvolvedor Front-end Mobile com Flutter (Java e arranhando Swift)
-- Desenvolvedor Back-end com Laravel + Inertia
+- Desenvolvedor Front-end Mobile com Flutter (Java e Swift (Desatualizado))
+- Desenvolvedor Back-end PHP, Laravel + Inertia (Conhecimento em NodeJS)
 - Desenvolvedor Desktop com Delphi, VueJS+Electron
 
-- Pequeno Manjador de VPS Linux
+- Grande conhecimento em MySQL ( Trigger's e Procedures )
+- Arranhando em Elastic Search
+
+- Pequeno Manjador de VPS's Linux
+
+- Atualmente trampando como FullStack Pleno período da Tarde.
 
 <div>
   <a href="https://github.com/alexprazeres">
