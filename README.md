@@ -7,8 +7,7 @@
 - Desenvolvedor Back-end PHP, Laravel, Conhecimento em NodeJS
 - Desenvolvedor Desktop com Delphi, VueJS+Electron
 
-- Grande conhecimento em MySQL ( Trigger's e Procedures )
-- Cada vez mais dentro do Elastic Search
+- Conhecimento em banco de dados SQL (MySQL ( Trigger's e Procedures )) e NoSQL (Elastic Search)
 
 - Pequeno Manjador de VPS's Linux
 
